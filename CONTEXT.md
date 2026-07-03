@@ -41,15 +41,15 @@ A simulation or interactive-environment infrastructure designed for embodied AI,
 _Avoid_: General game engine, general physics engine
 
 **Paper**:
-A publication that documents, motivates, evaluates, or introduces a system. Papers are evidence or entry points for a system, not the primary object being curated; when a system has multiple relevant technical papers, the README paper cell should include all of them in chronological system-development order from earliest to latest.
-_Avoid_: Entry, item, primary record, single-paper-only listing
+A publication that documents, motivates, evaluates, or introduces a system. Papers are evidence or entry points for a system, not the primary object being curated; README paper cells should use short link labels such as `Paper` instead of full paper titles.
+_Avoid_: Entry, item, primary record, full-title table cell
 
 **Technical Evidence**:
 A peer-reviewed paper, preprint, technical report, or system paper that explains enough of a system's design, architecture, data, evaluation, infrastructure, or deployment approach for readers to learn from it. Demos, marketing pages, news posts, fundraising announcements, and videos are not sufficient evidence by themselves.
 _Avoid_: Demo-only listing, news-only listing
 
 **Publication Venue**:
-The conference, journal, workshop, or preprint venue attached to the relevant papers for a system. Venue is an evidence signal for visibility, review standard, and community positioning, but it is not an admission gate for the curated list; when multiple papers are listed, venues should follow the same earliest-to-latest order.
+The conference, journal, workshop, or preprint venue attached to the representative paper listed for a system. Venue is an evidence signal for visibility, review standard, and community positioning, but it is not an admission gate for the curated list.
 _Avoid_: Conference when the source may be a journal, workshop, or preprint; venue as a hard filter
 
 **Year**:
