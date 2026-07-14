@@ -1,3 +1,5 @@
-# Treat venue as metadata, not an admission gate
+# Treat venue as evidence, not the sole admission gate
 
-The repository will include systems by systems contribution rather than by publication venue. Systems from robotics, ML, CV, embodied AI, simulation, or systems venues can be listed when they satisfy the curation criteria; venue remains useful metadata for evidence quality and community context, but not a hard filter.
+Publication venue cannot make a generic robotics system or model-only work eligible. Scope and systems contribution are screened first; venue remains metadata for every entry and a formal peer-reviewed archival publication is one of three accepted recognition signals for systems more than 12 months old.
+
+This preserves room for strong recent systems preprints while preventing old, unvalidated arXiv entries from remaining indefinitely. Workshops, demos, technical reports, and preprints do not satisfy the formal-publication signal by themselves.
